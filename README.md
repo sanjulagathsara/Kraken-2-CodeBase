@@ -1,6 +1,6 @@
 # Kraken 2 Robot CodeBase
 
-This is a Arena Figghting BattleBot Developed for Battlebot Competitions.
+This is a Arena Fighting BattleBot Developed for Battlebot Competitions.
 
 
  
