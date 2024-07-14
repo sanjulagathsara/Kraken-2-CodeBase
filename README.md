@@ -14,7 +14,7 @@ This robot is coded with arduino IDE.
 <br/>
 <br/>
 <p align="center">
- <img height="400" width="400" src="https://github.com/sanjulagathsara/Kraken2/blob/main/IMAGES/Fight.gif">
+ <img height="480" width="854" src="https://github.com/sanjulagathsara/Kraken2/blob/main/IMAGES/Fight.gif">
  <br/>
  <em>Kraken 2 Fighting (Speed 4x)</em>
 </p>
